@@ -1,3 +1,20 @@
+# Changelog
+### 1.1.10
+-------------
+
+**Features:**
+* Added support for get_the_archive_title() in the archive template
+* Added support for 
+
+### 1.1.10
+-------------
+
+**Features:**
+* General tweaks to Customizer Settings Area. Utilizing panels to separate settings.
+
+**Bugfixes:**
+*
+
 ### 1.1.9
 -------------
 
@@ -14,7 +31,7 @@
 **Features:**
 * Push for Internationalization and Localization
 * Translations for EN US
-* Transoations for Spanish (I hope...)
+* Translations for Spanish (I hope...)
 
 ### 1.1.7
 -------------
